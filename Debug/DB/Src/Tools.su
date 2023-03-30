@@ -1,0 +1,4 @@
+../DB/Src/Tools.c:11:5:__io_putchar	16	static
+../DB/Src/Tools.c:16:5:_write	24	static
+../DB/Src/Tools.c:22:5:__io_getchar	16	static
+../DB/Src/Tools.c:29:5:_read	32	static

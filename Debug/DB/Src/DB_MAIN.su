@@ -1,0 +1,9 @@
+../DB/Src/DB_MAIN.c:42:6:ex_main	16	static
+../DB/Src/DB_MAIN.c:186:6:vDispatcher	24	static
+../DB/Src/DB_MAIN.c:382:6:vPoliceManage	112	static
+../DB/Src/DB_MAIN.c:427:6:vFireManage	112	static
+../DB/Src/DB_MAIN.c:472:6:vAmbulanceManage	112	static
+../DB/Src/DB_MAIN.c:517:6:vMaintenanceManage	112	static
+../DB/Src/DB_MAIN.c:561:6:vLwipTask	16	static
+../DB/Src/DB_MAIN.c:575:6:vLightLedTask	16	static
+../DB/Src/DB_MAIN.c:592:6:HAL_UART_TxCpltCallback	16	static
